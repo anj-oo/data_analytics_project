@@ -1,4 +1,4 @@
-📊 Advanced SQL Data Analysis Project
+📊  SQL Sales Data Analysis Project
 -----------------------------------------------
 📌 Overview
 
